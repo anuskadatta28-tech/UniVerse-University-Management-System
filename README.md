@@ -4,6 +4,12 @@ UniVerse is a Database Management System (DBMS) project designed to manage unive
 
 The project uses MySQL for database management and HTML, CSS and JavaScript for the frontend interface.
 
+## 🌐 Live Demo
+
+**[Click here to view UniVerse Website](https://anuskadatta28-tech.github.io/UniVerse-University-Management-System/)**
+
+Explore the UniVerse University Management System demo interface.
+
 ## 📌 Project Overview
 
 The main objective of UniVerse is to organize university data systematically and provide a simple interface to view and manage academic information.
