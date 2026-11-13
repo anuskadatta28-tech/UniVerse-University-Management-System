@@ -105,6 +105,8 @@ The frontend currently uses sample demonstration records through JavaScript. A b
 ## 👩‍💻 Project Team
 
 **Developed as an academic DBMS project.**
+
 By Anuska Datta 25BCS10364
+
    Bhavya Sharma 25BCS12027
    
